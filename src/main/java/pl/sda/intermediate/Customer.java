@@ -22,4 +22,24 @@ public class Customer {
     public Customer(String name, String surname, Integer age, String salary) {
         this (name,surname,age,Integer.valueOf(salary));
     }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getSurname() {
+        return surname;
+    }
+
+    public Integer getAge() {
+        return age;
+    }
+
+    public BigDecimal getSalary() {
+        return salary;
+    }
 }
