@@ -33,8 +33,16 @@ public class InMemoryCategoryDAO {
                 categoriesMap.put(depth,innerList);
             }
         }
+        populateParentId(categoriesMap, 0);
 
     }
+
+    private void populateParentId(Map<Integer, List<Category>> categoriesMap, int depth) {
+
+
+        populateParentId(categoriesMap, depth+1);
+    }
+
 
     private List<String> loadCategoriesFromFile() {
 
