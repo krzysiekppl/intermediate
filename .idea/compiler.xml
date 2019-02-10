@@ -9,8 +9,5 @@
         <module name="intermediate" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="intermediate" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
