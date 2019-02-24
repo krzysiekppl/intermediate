@@ -40,6 +40,18 @@ public class OnlyOneController {
         return "loginForm";
     }
 
+    @RequestMapping(value = "/login", method = RequestMethod.GET)
+    public String loginForm(Model model) {
+        model.addAttribute("form", new UserLoginDTO());
+        return "loginForm";
+    }
+
+    @RequestMapping(value = "/logout", method = RequestMethod.GET)
+    public String logoutForm(Model model) {
+        model.addAttribute("form", new UserLoginDTO());
+        return "loginForm";
+    }
+
     @RequestMapping(value = "/register", method = RequestMethod.POST)
     public String registerEffects(UserRegistrationDTO userRegistrationDTO, Model model) {
         Map<String, String> errorsMap = userValidationService.validateUser(userRegistrationDTO);
