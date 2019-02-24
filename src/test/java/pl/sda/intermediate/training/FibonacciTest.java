@@ -1,4 +1,4 @@
-package shop;
+package pl.sda.intermediate.training;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

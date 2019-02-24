@@ -1,4 +1,4 @@
-package shop;
+package pl.sda.intermediate.training;
 
 public class Fibonacci {
 
