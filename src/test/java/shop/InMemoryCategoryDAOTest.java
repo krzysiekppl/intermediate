@@ -11,8 +11,8 @@ class InMemoryCategoryDAOTest {
 
     @Test
     void shouldPopulateParentCategoryIds() {
-        List<Category> list= InMemoryCategoryDAO.getInstance().categoryListResult;
+        List<Category> list = InMemoryCategoryDAO.getInstance().getCategoryListResult();
 
-        Assertions.assertEquals(Integer.valueOf(4),list.stream().filter(s->s.getId().equals(5)).findFirst().get().getParentId());
+        Assertions.assertEquals(Integer.valueOf(4), list.stream().filter(s -> s.getId().equals(5)).findFirst().get().getParentId());
     }
 }

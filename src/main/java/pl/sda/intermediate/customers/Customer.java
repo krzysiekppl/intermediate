@@ -1,7 +1,12 @@
 package pl.sda.intermediate.customers;
 
+import lombok.Getter;
+import lombok.Setter;
+
 import java.math.BigDecimal;
 
+@Getter
+@Setter
 public class Customer {
 
     private Integer id;
@@ -12,7 +17,7 @@ public class Customer {
     private static Integer COUNTER;
 
     public Customer(String name, String surname, Integer age, Integer salary) {
-        this.id = COUNTER+1;
+        this.id = COUNTER + 1;
         this.name = name;
         this.surname = surname;
         this.age = age;
@@ -20,26 +25,6 @@ public class Customer {
     }
 
     public Customer(String name, String surname, Integer age, String salary) {
-        this (name,surname,age,Integer.valueOf(salary));
-    }
-
-    public Integer getId() {
-        return id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public String getSurname() {
-        return surname;
-    }
-
-    public Integer getAge() {
-        return age;
-    }
-
-    public BigDecimal getSalary() {
-        return salary;
+        this(name, surname, age, Integer.valueOf(salary));
     }
 }

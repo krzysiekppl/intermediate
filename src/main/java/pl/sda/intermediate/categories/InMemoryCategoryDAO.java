@@ -1,5 +1,7 @@
 package pl.sda.intermediate.categories;
 
+import lombok.Getter;
+
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.nio.charset.Charset;
@@ -12,9 +14,11 @@ public class InMemoryCategoryDAO {
 
     private static InMemoryCategoryDAO instance;
 
-    List<Category> categoryListResult = new ArrayList<>();
+    @Getter
+    private List<Category> categoryListResult = new ArrayList<>();
 
     private InMemoryCategoryDAO() {
+
         initializeCategories();
     }
 

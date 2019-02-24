@@ -14,6 +14,4 @@ public class CategoryDTO {
     private CategoryState categoryState;
     private CategoryDTO parentCat;
 
-
-
 }
