@@ -1,4 +1,4 @@
-package Shop;
+package pl.sda.intermediate.categories;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
