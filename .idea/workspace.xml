@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3e55403-6f9c-4e6d-9a36-af56158dd793" name="Default Changelist" comment="App - done">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/catspage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/loginForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/registerEffect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/registerForm.html" afterDir="false" />
+    <list default="true" id="c3e55403-6f9c-4e6d-9a36-af56158dd793" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/intermediate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/NegativeValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/StringCalculatorKata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/intermediate/StringCalculatorKataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/OnlyOneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/OnlyOneController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategoryDTO.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,167 +16,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1985673724">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="16" />
-          <entry key="txt" value="1" />
-          <entry key="xml" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="2" />
-          <entry key="JAVA" value="35" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="13" />
-          <entry key="java" value="2253" />
-          <entry key="txt" value="67" />
-          <entry key="xml" value="108" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="4104" />
-          <entry key="PLAIN_TEXT" value="119" />
-          <entry key="XML" value="108" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/InMemoryCategoryDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategorySearchService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/StringCalculatorKata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="237">
+              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1068#1069#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/App.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/intermediate/StringCalculatorKataTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/OnlyOneController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="77" column="68" lean-forward="true" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1012#1013#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/intermediate/training/ThreadsExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="13" column="73" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1140#1141#0" expanded="true" />
-                <element signature="e#1202#1203#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategoryDTO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategoryState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="237">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/signin.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -235,6 +89,9 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/OnlyOneController.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategoryDTO.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/InMemoryCategoryDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/NegativeValueException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sda/intermediate/StringCalculatorKataTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/intermediate/StringCalculatorKata.java" />
       </list>
     </option>
   </component>
@@ -262,10 +119,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
+    <option name="width" value="1295" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -275,8 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,11 +142,6 @@
             <path>
               <item name="intermediate" type="b2602c69:ProjectViewProjectNode" />
               <item name="intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="intermediate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="intermediate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -322,7 +172,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name="categories" type="462c0819:PsiDirectoryNode" />
+              <item name="customers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="intermediate" type="b2602c69:ProjectViewProjectNode" />
@@ -352,31 +202,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="intermediate" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="intermediate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551051642350" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551562131315" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last.edited.regexp" value="//***---\n 1 *** 2 --- 8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.sda.intermediate" />
       <recent name="Shop" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -388,6 +233,7 @@
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.sda.intermediate" />
       <recent name="pl.sda.intermediate.customers" />
       <recent name="pl.sda.intermediate.categories" />
     </key>
@@ -404,9 +250,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.intermediate.App" />
+  <component name="RunManager" selected="JUnit.StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters">
+    <configuration name="StringCalculatorKataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="intermediate" />
       <extension name="coverage">
         <pattern>
@@ -414,52 +259,91 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="pl.sda.intermediate" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.intermediate.StringCalculatorKataTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciTest.fibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="intermediate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.intermediate.categories.*" />
+          <option name="PATTERN" value="pl.sda.intermediate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="training" />
-      <option name="MAIN_CLASS_NAME" value="pl.sda.intermediate.training.FibonacciTest" />
-      <option name="METHOD_NAME" value="fibonacciTest" />
+      <option name="PACKAGE_NAME" value="pl.sda.intermediate" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.intermediate.StringCalculatorKataTest" />
+      <option name="METHOD_NAME" value="shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InMemoryCategoryDAOTest.shouldPopulateParentCategoryIds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="intermediate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.intermediate.categories.*" />
+          <option name="PATTERN" value="pl.sda.intermediate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="training" />
-      <option name="MAIN_CLASS_NAME" value="pl.sda.intermediate.training.InMemoryCategoryDAOTest" />
-      <option name="METHOD_NAME" value="shouldPopulateParentCategoryIds" />
+      <option name="PACKAGE_NAME" value="pl.sda.intermediate" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.intermediate.StringCalculatorKataTest" />
+      <option name="METHOD_NAME" value="shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="intermediate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.intermediate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda.intermediate" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.intermediate.StringCalculatorKataTest" />
+      <option name="METHOD_NAME" value="shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithoutDelimiter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="intermediate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.intermediate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda.intermediate" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.intermediate.StringCalculatorKataTest" />
+      <option name="METHOD_NAME" value="shouldReturnSumWhenTextHasManyNumbersWithoutDelimiter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FibonacciTest.fibonacciTest" />
-      <item itemvalue="JUnit.InMemoryCategoryDAOTest.shouldPopulateParentCategoryIds" />
-      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValue" />
+      <item itemvalue="JUnit.StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValue" />
+      <item itemvalue="JUnit.StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters" />
+      <item itemvalue="JUnit.StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithoutDelimiter" />
+      <item itemvalue="JUnit.StringCalculatorKataTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.InMemoryCategoryDAOTest.shouldPopulateParentCategoryIds" />
-        <item itemvalue="JUnit.FibonacciTest.fibonacciTest" />
+        <item itemvalue="JUnit.StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters" />
+        <item itemvalue="JUnit.StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValue" />
+        <item itemvalue="JUnit.StringCalculatorKataTest" />
+        <item itemvalue="JUnit.StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithoutDelimiter" />
+        <item itemvalue="JUnit.StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValue" />
       </list>
     </recent_temporary>
   </component>
@@ -516,40 +400,53 @@
       <option name="project" value="LOCAL" />
       <updated>1551049550364</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="App - fixes">
+      <created>1551051814262</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1551051814262</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FibonacciTest_fibonacciTest - 2019.02.10 at 14h 43m 02s.xml">
-      <configuration name="FibonacciTest.fibonacciTest" configurationId="JUnit" />
+    <history-entry file="StringCalculatorKataTest_shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters - 2019.03.02 at 22h 10m 24s.xml">
+      <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest_fibonacciTest - 2019.02.10 at 14h 43m 23s.xml">
-      <configuration name="FibonacciTest.fibonacciTest" configurationId="JUnit" />
+    <history-entry file="StringCalculatorKataTest_shouldReturnSumWhenTextHasManyNumbersWithoutDelimiter - 2019.03.02 at 22h 11m 18s.xml">
+      <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithoutDelimiter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest_fibonacciTest - 2019.02.10 at 14h 43m 47s.xml">
-      <configuration name="FibonacciTest.fibonacciTest" configurationId="JUnit" />
+    <history-entry file="StringCalculatorKataTest_shouldReturnSumWhenTextHasManyNumbersWithoutDelimiter - 2019.03.02 at 22h 11m 43s.xml">
+      <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithoutDelimiter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest_fibonacciTest - 2019.02.10 at 14h 44m 20s.xml">
-      <configuration name="FibonacciTest.fibonacciTest" configurationId="JUnit" />
+    <history-entry file="StringCalculatorKataTest_shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters - 2019.03.02 at 22h 17m 18s.xml">
+      <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InMemoryCategoryDAOTest_shouldPopulateParentCategoryIds - 2019.02.10 at 15h 44m 12s.xml">
-      <configuration name="InMemoryCategoryDAOTest.shouldPopulateParentCategoryIds" configurationId="JUnit" />
+    <history-entry file="StringCalculatorKataTest - 2019.03.02 at 22h 20m 11s.xml">
+      <configuration name="StringCalculatorKataTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InMemoryCategoryDAOTest_shouldPopulateParentCategoryIds - 2019.02.10 at 15h 48m 11s.xml">
-      <configuration name="InMemoryCategoryDAOTest.shouldPopulateParentCategoryIds" configurationId="JUnit" />
+    <history-entry file="StringCalculatorKataTest - 2019.03.02 at 22h 21m 03s.xml">
+      <configuration name="StringCalculatorKataTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InMemoryCategoryDAOTest_shouldPopulateParentCategoryIds - 2019.02.10 at 15h 54m 51s.xml">
-      <configuration name="InMemoryCategoryDAOTest.shouldPopulateParentCategoryIds" configurationId="JUnit" />
+    <history-entry file="StringCalculatorKataTest_shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValue - 2019.03.02 at 22h 21m 30s.xml">
+      <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InMemoryCategoryDAOTest_shouldPopulateParentCategoryIds - 2019.02.18 at 21h 35m 44s.xml">
-      <configuration name="InMemoryCategoryDAOTest.shouldPopulateParentCategoryIds" configurationId="JUnit" />
+    <history-entry file="StringCalculatorKataTest_shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValue - 2019.03.02 at 22h 23m 06s.xml">
+      <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringCalculatorKataTest_shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters - 2019.03.02 at 22h 23m 15s.xml">
+      <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringCalculatorKataTest_shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters - 2019.03.02 at 22h 25m 50s.xml">
+      <configuration name="StringCalculatorKataTest.shouldReturnSumWhenTextHasManyNumbersWithLongerDelimiterWithoutNegativeValueMaxValueWithManyDelimiters" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -558,8 +455,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37201735" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3716143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -567,6 +464,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" weight="0.3286334" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -577,9 +475,6 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="File loader" />
     <MESSAGE value="Fibonacci" />
@@ -587,7 +482,20 @@
     <MESSAGE value="Category next step" />
     <MESSAGE value="User Registration DTO - done" />
     <MESSAGE value="App - done" />
-    <option name="LAST_COMMIT_MESSAGE" value="App - done" />
+    <MESSAGE value="App - fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="App - fixes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/StringCalculatorKata.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/kategorie.txt">
@@ -609,9 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -622,20 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/CustomerStatistics.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2680">
           <caret line="144" column="61" selection-start-line="144" selection-start-column="61" selection-end-line="144" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,20 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserExistsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,29 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserRegistrationDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserRegistrationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="69" lean-forward="true" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,46 +555,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserLoginDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserContextHolder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserValidationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserLoginService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,9 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,9 +580,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -774,21 +597,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="120">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategoryState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
+        <state relative-caret-position="235">
           <caret line="13" column="73" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -798,40 +626,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/main.css">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserLoginDTO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="140">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/signin.css">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserRegistrationDTO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        <state relative-caret-position="120">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserLoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserRegistrationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserValidationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/OnlyOneController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategoryDTO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
+        <state relative-caret-position="420">
           <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategoryState.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategorySearchService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="-145">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -840,29 +710,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/InMemoryCategoryDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="-245">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/OnlyOneController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/customers/UserExistsException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="77" column="68" lean-forward="true" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
+        <state relative-caret-position="100">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/NegativeValueException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/categories/CategorySearchService.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="159">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar!/org/junit/platform/commons/util/ExceptionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar!/org/junit/platform/commons/util/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/intermediate/StringCalculatorKataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/intermediate/StringCalculatorKata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
           </folding>
         </state>
       </provider>
